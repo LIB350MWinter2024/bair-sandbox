@@ -1,6 +1,6 @@
 field,display_name,browse_link,external_link
 objectid,,,
-youtubeid,Youtube Id,,
+youtubeid,Youtube Id,,true
 title,Title,,
 filename,,
 format,Format,,
@@ -11,9 +11,9 @@ description,Description,,
 image_alt_text,Alt Text,,
 subject,Subject,true,
 location,Location,,
-source,Source,,
+source,Source,,true
 type,Work Type,,
 language,Language,,
-rights,Rights Statement,,
-creativecommons,Creative Commons License,,
-citation,Citation,,
+rights,Rights Statement,,true
+creativecommons,Creative Commons License,,true
+citation,Citation,,true
