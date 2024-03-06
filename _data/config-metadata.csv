@@ -1,19 +1,18 @@
 field,display_name,browse_link,external_link
-objectid,,,
-youtubeid,Youtube Id,,true
+objectid,Object ID,,
 title,Title,,
-filename,,
+file name,File Name,,
 format,Format,,
-creator,Creator,,
-date,Date,true,
-datecreated,Date Created,,
+youtubeid,YouTube ID,,
+creator,Creator,true,
+datecreated,Date,,
 description,Description,,
 image_alt_text,Alt Text,,
-subject,Subject,true,
+subject,Subjects,true,
 location,Location,,
 source,Source,,true
+citation,Citation,,
 type,Work Type,,
 language,Language,,
 rights,Rights Statement,,true
 creativecommons,Creative Commons License,,true
-citation,Citation,,true
